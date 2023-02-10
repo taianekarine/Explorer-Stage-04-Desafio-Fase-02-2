@@ -16,7 +16,6 @@ Hora de colocar tudo o que foi visto no stage 04 do projeto Explorer da Rocketse
 Depois de criada a lista:
 <br>
 - [ ]  Criei uma **função** que irá calcular a média das notas de cada aluno;
-<br>
 - [ ]  Supondo que a média, para esse concurso é **7**, fiz um operador comparativo para verificar **se** cada aluno obteve sucesso ou não em entrar no concurso e mostrarei uma mensagem na tela.
 <br>
 
