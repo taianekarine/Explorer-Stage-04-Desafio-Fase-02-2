@@ -4,6 +4,7 @@
 <p align="center">
 Hora de colocar tudo o que foi visto no stage 04 do projeto Explorer da Rocketseat em pratica. O projeto requer que eu crie uma lista de estudantes e, cada estudante dentro dessa lista, deverá conter os seguintes dados:
 <br>
+<br>
 - nome;
 <br>
 - nota da primeira prova;
