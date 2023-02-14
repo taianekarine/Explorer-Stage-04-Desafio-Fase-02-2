@@ -9,7 +9,7 @@ Hora de colocar tudo o que foi visto no stage 04 do projeto Explorer da Rocketse
 <br>
 - nota da primeira prova;
 <br>
-- nota da segunda prova.
+- nota da segunda prova;
 <br>
 </p>
 <br>
